@@ -1,13 +1,3 @@
-Good. Stop thinking. **Here is the FINAL README.md**.
-This version is **100% correct**, **markdown-safe**, and **ready to commit**.
-
-👉 **Delete everything in your current README.md**
-👉 **Paste EXACTLY this**
-👉 **Do not add or remove anything**
-
----
-
-````md
 # CampusFare 🍽️
 Surplus Food Sharing for Campus Communities
 
@@ -41,7 +31,7 @@ CampusFare is a lightweight Flutter application that displays real-time surplus 
 
 ### Steps
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK>
+git clone https://github.com/SarthakShaw01/campusfare.git
 cd campusfare_app
 flutter pub get
 flutter run -d chrome
