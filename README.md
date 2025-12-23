@@ -61,29 +61,3 @@ Example document:
 ## Project Status
 
 MVP completed with core real-time functionality using Google technologies.
-
-```
-
----
-
-### 🔒 IMPORTANT (READ ONCE)
-- The README **ends here**
-- No extra text after this
-- No mentor notes
-- No instructions
-- No screenshots
-- No explanations
-
----
-
-### ✅ NOW DO THIS
-1. Click **Preview** → confirm it looks normal  
-2. Click **Commit changes**  
-3. Push to GitHub  
-
-Then reply with **ONE WORD ONLY**:
-- **Committed**
-
-You’re done with README.  
-Next we finish submission.
-```
